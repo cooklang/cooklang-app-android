@@ -1,4 +1,4 @@
-# CooklangApp: recipe reader on iPhone and iPad
+# CooklangApp: recipe reader on Android
 
 Meta repository for [bug reports](https://github.com/cooklang/cooklang-app-android/issues) and [discussions](https://github.com/cooklang/cooklang-app-android/discussions) about Cooklang Android app.
 
