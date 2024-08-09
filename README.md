@@ -16,6 +16,3 @@ Features:
 * Export and share shopping lists with other people.
 * Own your data forever. No account is required.
 
-
-Buying this app is a good way to support the development of the Cooklang ecosystem.
-
