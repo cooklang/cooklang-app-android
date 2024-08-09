@@ -6,7 +6,7 @@ Meta repository for [bug reports](https://github.com/cooklang/cooklang-app-andro
 
 Store your Cooklang recipes files on your desktop and seamlessly use them on your Android phone or tablet while cooking or shopping.
 
-_Note: Requires Mac or PC to manage recipes files on desktop._
+_Note: Requires Mac or PC to manage recipes files on desktop with Desktop app._
 
 Features:
 
@@ -14,5 +14,3 @@ Features:
 * Create shopping lists grouped by store department.
 * Organise your recipes in your way: we support folders and symlinks.
 * Export and share shopping lists with other people.
-* Own your data forever. No account is required.
-
