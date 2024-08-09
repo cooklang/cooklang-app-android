@@ -4,9 +4,9 @@ Meta repository for [bug reports](https://github.com/cooklang/cooklang-app-andro
 
 ## About
 
-Store your Cooklang recipes files in Google Drive and seamlessly use them on your Android phone or tablet while cooking or shopping.
+Store your Cooklang recipes files on your desktop and seamlessly use them on your Android phone or tablet while cooking or shopping.
 
-_Note: Requires Mac or PC to manage recipes files on Google Drive._
+_Note: Requires Mac or PC to manage recipes files on desktop._
 
 Features:
 
